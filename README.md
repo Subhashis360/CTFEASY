@@ -3,7 +3,7 @@
 ctf cheatsheat made by Subhashis daily added new if it best
 * * *
 **hashing**
-
+* gem install haiti-hash ( HAITI (Terminal => haiti hash ))
 * https://hashes.com/en/tools/hash_identifier
 * https://hashtoolkit.com/decrypt-hash/
 * https://crackstation.net/ (multiple together)
