@@ -14,3 +14,4 @@ ctf cheatsheat made by Subhashis daily added new if it best
 * * *
 **cryptography**
 - https://www.quipqiup.com/ (subsititution cipher)
+- https://github.com/Ciphey/Ciphey ( cli )
