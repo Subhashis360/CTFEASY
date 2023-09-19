@@ -11,7 +11,13 @@ ctf cheatsheat made by Subhashis daily added new if it best
 * hashcat » hascat -m 1111 (hash:saltifhave) rockyou.txt
 * https://www.dcode.fr/hash-identifier
 
+
 * * *
 **cryptography**
 - https://www.quipqiup.com/ (subsititution cipher)
 - https://github.com/Ciphey/Ciphey ( cli )
+
+- 
+* * *
+**XSS Finder**
+https://github.com/faiyazahmad07/xss_vibes.git
