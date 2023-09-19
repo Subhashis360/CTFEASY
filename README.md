@@ -20,4 +20,4 @@ ctf cheatsheat made by Subhashis daily added new if it best
 - 
 * * *
 **XSS Finder**
-https://github.com/faiyazahmad07/xss_vibes.git
+- https://github.com/faiyazahmad07/xss_vibes.git
